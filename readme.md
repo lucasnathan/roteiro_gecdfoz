@@ -1,6 +1,6 @@
 # Calculadora Python
 
-## Operações:
+## Operações
 
 * Adição;
 * Subtração;
