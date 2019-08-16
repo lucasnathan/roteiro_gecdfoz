@@ -1,3 +1,5 @@
+from operacoes import basicas
+
 def main():
   print('por favor digite o número correspondente a sua operação:')
   print('1 - adicao')
@@ -6,7 +8,11 @@ def main():
   print('4 - multiplicacao')
   operacao = int(input())
   if operacao == 1:
-    print('adicao')
+    print('1# operando')
+    a = input()
+    print('2# operando')
+    b = input()
+  print(basicas.adicao(a,b))
   elif operacao == 2:
     print('subtracao')
   elif operacao == 3:
