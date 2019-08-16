@@ -12,7 +12,7 @@ def main():
     a = input()
     print('2# operando')
     b = input()
-  print(basicas.adicao(a,b))
+    print(basicas.adicao(a,b))
   elif operacao == 2:
     print('subtracao')
   elif operacao == 3:
