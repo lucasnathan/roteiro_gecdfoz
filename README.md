@@ -1,1 +1,8 @@
-# roteiro_gecdfoz
+# Calculadora Python
+
+## Operações
+
+* Adição;
+* Subtração;
+* Multiplicação;
+* Divisão;
